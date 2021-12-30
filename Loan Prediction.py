@@ -187,14 +187,4 @@ plt.title(' Output')
 
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
